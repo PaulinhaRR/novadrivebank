@@ -1,4 +1,4 @@
-# tecnicas aplicadas para melhroar o modelo
+# tecnicas aplicadas para melhroar o modelo, apenas para fins de testes.
 
 #Early Stopping: interrompe o treinamento quando a performance começa a piorar
 
